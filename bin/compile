@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# bin/compile <build-dir> <cache-dir> <env-dir>
+
+### Configure environment
+
+echo "test compile build-dir: " ${$1} " cache-dir: " ${$2} " env-dir: " ${$3}
